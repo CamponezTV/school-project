@@ -1,0 +1,71 @@
+.titulo {
+    font-family: 'Inter';
+    font-size: 18px;
+    padding: 2em 0em 1em 2em;
+}
+
+.header {
+    padding-bottom: 5em;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    padding-left: 10em;
+
+}
+
+.roles {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-family: 'Inter';
+}
+
+.role1 {
+    font-size: 30px;
+    padding-bottom: 0.2em;
+}
+
+.role2 {
+    font-size: 20px;
+    padding-bottom: 0.2em;
+}
+
+.me {
+    width: 30%;
+}
+
+.about-role {
+    font-size: 15px;
+    padding-top: 0.4em;
+    color: rgb(82, 82, 82);
+}
+
+.portfolio {
+    display: flex;
+    padding-top: 10em;
+    font-family: 'Inter';
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-port {
+    font-size: 30px;
+    padding-bottom: 2em;
+}
+
+.img-port {
+    width: 50%;
+    padding-bottom: 2em;
+}
+
+.link-port {
+    text-decoration: none;
+    padding-bottom: 5em;
+}
+
+footer {
+    text-align: center;
+}
